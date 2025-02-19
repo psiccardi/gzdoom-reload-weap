@@ -4,7 +4,10 @@ Includes:
 * Vanilla Shotgun with reloading logic and shell casings
 * Vanilla SuperShotgun with reloading logic and shell casings
 * Added new shell based gun: "Porrector" with double attack types
-* Replaced Vanilla Zombieman with a Zombieman holding a pistol with reloading logics
+* Replaced Vanilla Zombieman with a Zombieman holding a pistol with reloading logics 
 * Added reloading logics to ShotgunGuy
 * Replaced DoomImp witn an Imp that can swim
 * Forced falling damage for all Actors
+
+Credits:
+The creators of Brutal DooM Platinum for some sprites and for inspiration for the code written in this mod.
