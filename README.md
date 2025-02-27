@@ -1,5 +1,5 @@
 This .pk3 file contains a GzDooM mod I'm working on.
-Includes:
+Features and modifications:
 * New pistol with reloading logic and bullet casings
 * Vanilla Shotgun with reloading logic and shell casings
 * Vanilla SuperShotgun with reloading logic and shell casings
@@ -8,6 +8,7 @@ Includes:
 * Added reloading logic to ShotgunGuy (he fires 8 times before the reload)
 * Replaced DoomImp witn an Imp that can swim
 * Forced falling damage for all Actors
+* Added a new neutral monster, the "tick" from Marathon 2 Durandal
 
 Credits:
 
