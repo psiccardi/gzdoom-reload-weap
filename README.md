@@ -6,7 +6,7 @@ Features and modifications:
 * Added new shell based gun: "Porrector" with double attack types
 * Replaced Vanilla Zombieman with a Zombieman holding a pistol with reloading logic (he fires 12 times before reloading the weapon)
 * Added reloading logic to ShotgunGuy (he fires 8 times before the reload)
-* Replaced DoomImp witn an Imp that can swim
+* Replaced DoomImp witn an Imp that can swim - WORK IN PROGRESS
 * Forced falling damage for all Actors
 * Added a new neutral monster, the "tick" from Marathon 2 Durandal
 
