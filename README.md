@@ -9,6 +9,7 @@ Features and modifications:
 * Replaced DoomImp witn an Imp that can swim - WORK IN PROGRESS
 * Forced falling damage for all Actors
 * Added a new neutral monster, the "tick" from Marathon 2 Durandal
+* Added Sentry Drone enemy from Duke3D
 
 Credits:
 
