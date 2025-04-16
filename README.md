@@ -10,6 +10,7 @@ Features and modifications:
 * Forced falling damage for all Actors
 * Added a new neutral monster, the "tick" from Marathon 2 Durandal
 * Added Sentry Drone enemy from Duke3D
+* Added drowning logic to DoomImp
 
 Credits:
 
