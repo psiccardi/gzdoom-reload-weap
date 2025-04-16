@@ -15,3 +15,4 @@ Credits:
 
 * The creators of Brutal DooM Platinum for some sprites of the Zombieman holding a pistol and for inspiration for the code written in this mod.
 * [DJMaesen](https://sketchfab.com/bumstrum) that made the 3d model that I used as reference for the pistol.
+* [FishyClock](https://github.com/FishyClock) for the [3D Platform feature](https://github.com/FishyClock/3Dplatform) 
